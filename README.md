@@ -1,8 +1,5 @@
 ### Hi there 👋
-<H1>
-    Coming soon...
-</H1>
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<KononovichAI>" />
+![815c621a72a32738c7846ea45546dd07](https://github.com/KononovichAI/KononovichAI/blob/main/815c621a72a32738c7846ea45546dd07.gif)
 
 <!--
 **KononovichAI/KononovichAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
