@@ -1,5 +1,5 @@
 ### Hi there 👋
-![815c621a72a32738c7846ea45546dd07](https://github.com/KononovichAI/KononovichAI/blob/main/815c621a72a32738c7846ea45546dd07.gif)
+![815c621a72a32738c7846ea45546dd07](https://github.com/KononovichAI/KononovichAI/blob/main/cs.gif)
 
 <!--
 **KononovichAI/KononovichAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
